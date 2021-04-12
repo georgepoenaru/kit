@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.73
+
+### Patch Changes
+
+- ca108a6: Change `handle` hook from positional arguments to named arguments
+
 ## 1.0.0-next.72
 
 ### Patch Changes
